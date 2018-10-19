@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.8.0-gpu
+FROM tensorflow/tensorflow:1.11.0-gpu
 
 
 # some more python package needed by our tf custom scripts
